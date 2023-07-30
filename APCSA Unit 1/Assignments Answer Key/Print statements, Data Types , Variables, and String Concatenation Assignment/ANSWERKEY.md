@@ -4,11 +4,11 @@
 
 **Which of the following variable names in Java would NOT cause a compilation error (Syntax error)?**
 
-A) for
-B) 3rdPerson
-C) TOP STUDENT
-D) bark_meow_$bark
-E) meow?&2
+- A) for
+- B) 3rdPerson
+- C) TOP STUDENT
+- D) bark_meow_$bark
+- E) meow?&2
 
 **Correct Answer: D) bark_meow_$bark**
 
