@@ -1,5 +1,42 @@
 # README.md - Data Types Quiz Answer and Explanation
 
+## Question 9:
+
+**Which of the following variable names in Java would NOT cause a compilation error (Syntax error)?**
+
+A) for
+B) 3rdPerson
+C) TOP STUDENT
+D) bark_meow_$bark
+E) meow?&2
+
+**Correct Answer: D) bark_meow_$bark**
+
+**Explanation:**
+
+- A) for - This will cause a compilation error because "for" is a reserved keyword in Java used for loop constructs.
+
+- B) 3rdPerson - This will cause a compilation error because variable names cannot start with a digit. They can start with an underscore, a letter, or a dollar sign.
+
+- C) TOP STUDENT - This will cause a compilation error because variable names cannot contain spaces in Java. Instead, you can use underscores to separate words, like "TOP_STUDENT".
+
+- D) bark_meow_$bark - This is a valid variable name. It follows the rules for valid Java variable names, as it starts with a letter and can include underscores and other characters.
+
+- E) meow?&2 - This will cause a compilation error because variable names cannot contain special characters like "?", "&", or any other symbol except underscores.
+
+Now, let's recap the correct answer:
+
+- A) for - Compilation error (reserved keyword)
+- B) 3rdPerson - Compilation error (cannot start with a digit)
+- C) TOP STUDENT - Compilation error (invalid variable name due to spaces)
+- D) bark_meow_$bark - No compilation error (valid variable name)
+- E) meow?&2 - Compilation error (invalid variable name due to special characters)
+
+**The correct answer is:**
+
+**D) bark_meow_$bark**
+
+
 ## Question 10:
 
 **Which of the following data types are primitive data types?**
